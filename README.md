@@ -16,3 +16,6 @@ Reference to Tomcat, Apache, and Nginx..., build your own demo server.
 <h3>Next</h3>
 * Finish a simple servlet server.
 * Start study Apache and Nginx
+
+<h3>Reference</h3>
+how tomcat works
